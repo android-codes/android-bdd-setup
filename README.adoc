@@ -1,3 +1,3 @@
 = BDD SetUp
 
-this project is an android kotlin cucumber setup, the code base to integrate behavior in dev cycle.
+this project is an android kotlin cucumber setup, the code base to integrate, the behavior development driven(BDD), in dev cycle.
